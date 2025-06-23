@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naitik Digwal</h1>
+<h1 align="center">Hi 👋, I'm Naitik </h1>
 
 🎓 B.Tech (Electrical Engineering) – DTU, 2025  
 💻 Full-stack Developer | MERN | SQL | JavaScript | TypeScript  
